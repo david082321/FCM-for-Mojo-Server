@@ -21,7 +21,7 @@ const config = {
     //"push_proxy": 'http://127.0.0.1:8080',
 
     // hostname, 0.0.0.0 default (IPv4)
-    /*"hostname": "",*/
+    "hostname": "35.187.146.126",
 
     // basic auth config, see https://github.com/http-auth/http-auth#configuration
     /*"basic_auth": {
